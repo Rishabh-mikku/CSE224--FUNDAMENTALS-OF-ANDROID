@@ -1,0 +1,113 @@
+Skip to Main Content
+Coursera
+Lovely Professional University
+
+SEARCH IN COURSE
+Search in course
+
+
+Rishabh Deo Singh
+
+Advanced Programming in Kotlin
+Week 3
+Self review: Process collections
+Lambda expressions
+Higher-order functions
+Collections processing
+Video: VideoCollection processing functions
+. Duration: 3 minutes3 min
+Video: VideoDefining and using forEach
+. Duration: 1 minute1 min
+Video: VideoDefining and using map
+. Duration: 1 minute1 min
+Reading: ReadingPractice using map
+. Duration: 20 minutes20 min
+Video: VideoDefining and using filter
+. Duration: 3 minutes3 min
+Reading: ReadingPractice using filter
+. Duration: 20 minutes20 min
+Video: VideoDefining and using fold
+. Duration: 3 minutes3 min
+Reading: ReadingPractice using fold
+. Duration: 20 minutes20 min
+Video: VideoUsing collection processing functions together
+. Duration: 4 minutes4 min
+Reading: ReadingExercise: Process collections
+. Duration: 20 minutes20 min
+Reading: ReadingSolution: Process collections
+. Duration: 20 minutes20 min
+Practice Quiz: Self review: Process collections
+3 questions
+Practice Quiz: Knowledge check: Collections processing
+5 questions
+Video: VideoModule summary: Functional programming
+. Duration: 2 minutes2 min
+Quiz: Module quiz: Functional programming
+10 questions
+Reading: ReadingAdditional resources
+. Duration: 5 minutes5 min
+Self review: Process collections
+Practice Quiz9 minutes • 9 min
+Submit your assignment
+Receive grade
+To Pass 80% or higher
+Your grade
+100%
+We keep your highest score
+
+Self review: Process collections
+Practice Quiz. • 9 min. • 3 total points available.3 total points
+
+Congratulations! You passed!
+Grade received 100%
+To pass 80% or higher
+1.
+Question 1
+What was the sales tax amount output (up to 2 decimal places) when you ran your exercise’s code?
+
+1 / 1 point
+
+7.71
+
+
+9.59
+
+
+8.98
+
+Correct
+Correct! You correctly implemented the exercise instructions.
+
+2.
+Question 2
+What would be the sales tax output (up to 2 decimal places) if you change the month to August and the sales tax percentage to 7.5%?
+
+1 / 1 point
+
+4.95
+
+
+5.02
+
+
+6.38
+
+Correct
+Correct! You correctly implemented the exercise instructions.
+
+3.
+Question 3
+Which of the following functions does not return a List when called on an instance of List?
+
+1 / 1 point
+
+map
+
+
+fold
+
+
+filter
+
+Correct
+Correct! The fold function would return an accumulated value starting from an initial value and applying an operation to an accumulated value and each element

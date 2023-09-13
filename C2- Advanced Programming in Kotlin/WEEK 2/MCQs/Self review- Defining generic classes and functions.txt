@@ -1,0 +1,59 @@
+Self review: Defining generic classes and functions
+Practice Quiz. • 9 min. • 3 total points available.3 total points
+
+Congratulations! You passed!
+Grade received 100%
+To pass 80% or higher
+1.
+Question 1
+When you run your solution for the exercise Defining generic classes and functions, what is the output?
+
+1 / 1 point
+
+1
+
+
+2
+
+
+[Cheese, Cheese]
+
+Correct
+Correct! Since addIngredient was called twice, contents holds two elements.
+
+2.
+Question 2
+If you replaced the type passed to newInventory from Cheese to Onion, when you run your solution, which of the following would be a valid statement?
+
+1 / 1 point
+
+cheeseInventory.addIngredient(Cheese)
+
+
+cheeseInventory.addIngredient("Onion")
+
+
+cheeseInventory.addIngredient(Onion)
+
+Correct
+Correct! After your change, the addIngredient function of cheeseInventory only accepts arguments of type Onion.
+
+3.
+Question 3
+For the code implemented in Step 2 of the exercise, which of the below statements are valid? 
+
+1 / 1 point
+
+Inventory<Flour>()
+
+Correct
+Correct! Flour implements Ingredient and is a valid generic type for Inventory. 
+
+
+Inventory<"Milk">()
+
+
+Inventory<Egg>()
+
+Correct
+Correct! Egg inherits from Ingredient and is therefore a valid generic type for Inventory.
